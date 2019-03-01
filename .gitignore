@@ -1,7 +1,4 @@
 
-# images
-resources/static/image
-
 # compiled output
 dist/
 tmp/
@@ -13,6 +10,9 @@ target/
 
 # Log file
 *.log
+
+# images
+resources/static/image/
 
 # Package Files #
 *.jar
